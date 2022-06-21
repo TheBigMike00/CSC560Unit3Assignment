@@ -1,0 +1,19 @@
+{
+  "name": "unit3",
+  "version": "1.0.0",
+  "description": "API to connect to DB of Packers' players stats",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "expression": "^0.0.1",
+    "mongodb": "^4.7.0",
+    "mongoose": "^6.4.0"
+  }
+}
